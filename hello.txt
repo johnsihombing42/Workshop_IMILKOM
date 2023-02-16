@@ -1,1 +1,2 @@
 Selamat Datang di Workshop IMILKOM
+Kenalan dengan GIT & Github : Alat Kolaborasinya Programmer
